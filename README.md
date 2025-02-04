@@ -12,8 +12,20 @@ Radar App is a web application designed for visualizing and managing business ca
 *   **Backend:** PHP (Yii2 framework)
 *   **Frontend:** JavaScript, Bootstrap
 *   **UI Design:** Figma
+  
+### Metrics
 
-## Screenshots
+<img src="metrics1.png" alt="Metrics View 1" width="400">
+<img src="metrics2.png" alt="Metrics View 2" width="400">
+
+### Goals
+
+<img src="goals1.png" alt="Goals View 1" width="400">
+<img src="goals2.png" alt="Goals View 2" width="400">
+
+### Use Cases
+
+<img src="usecases.png" alt="Use Cases Diagram" width="400">
 
 
 ## My Role
